@@ -1,0 +1,2 @@
+# sc
+vim , bash configurations
